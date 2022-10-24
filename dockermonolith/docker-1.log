@@ -1,0 +1,5 @@
+└─ $ ▶ docker images
+REPOSITORY                  TAG       IMAGE ID       CREATED         SIZE
+anykey711/ubuntu-tmp-file   latest    fe8a2d4deb70   9 seconds ago   63.1MB
+ubuntu                      18.04     35b3f4f76a24   3 weeks ago     63.1MB
+hello-world                 latest    feb5d9fea6a5   12 months ago   13.3kB
